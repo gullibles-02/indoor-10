@@ -1,0 +1,12 @@
+{
+  "name": "LLLsXBPbp95laxuGQyDWVuA3WtTDfhO1vi8jdTIyCY8VIS4yHR",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "แทงมวยออนไลน์ Huc99 จาก แทงมวยออนไลน์ 1688SAGame เว็บพนันออนไลน์ อันดับหนึ่ง Huc799 แทงมวยออนไลน์ Huc22 เว็บพนันบอลและคาสิโนออนไลน์แบบครบวงจรที่ดีที่สุด เช",
+  "repository": "https://github.com/gullibles-02/indoor-10",
+  "keywords": ["แทงมวยออนไลน์","แทงมวยออนไลน์ 1688SAGame"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
