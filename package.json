@@ -1,10 +1,13 @@
 {
-  "name": "tBjHmyj35pI9xLg6rftOgVpnwTmfJMe4T7xO3OsM613gA7yjhi",
+  "name": "สูตรยิงปลา - เว็บพนัน ufa191(ยูฟ่า191) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "สูตรยิงปลา Lucky สำหรับ สูตรยิงปลา UFA191 เว็บพนันออนไลน์ อันดับหนึ่ง Vip 77 รวมหวยหุ้นยอดนิยมเอาไว้อย่างครบถ้วนทั้งหวยหุ้นไทย หุ้นดาวโจนส์ หุ้นอังกฤษ หุ้น",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["สูตรยิงปลา","สูตรยิงปลา UFA191"],
+  "keywords": [
+    "สูตรยิงปลา",
+    "สูตรยิงปลา UFA191"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
