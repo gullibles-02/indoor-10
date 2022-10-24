@@ -1,10 +1,13 @@
 {
-  "name": "DFJTqJuO6YYgdbfhgkQRDLmuKVgKHOQYLnlgFQh1mz5uHmAtqJ",
+  "name": "แทงม้าแข่ง - เว็บพนัน 123play(123เพลล์) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "แทงม้าแข่ง เกมสล็อต ต่อ แทงม้าแข่ง 123Play เว็บพนันออนไลน์ อันดับหนึ่ง เป็นเกมพนันในรูปแบบหนึ่ง ที่มีลักษณะการเล่นที่ง่าย ทำความเข้าใจได้ไม่ยาก โดยการเดิมพ",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["แทงม้าแข่ง","แทงม้าแข่ง 123Play"],
+  "keywords": [
+    "แทงม้าแข่ง",
+    "แทงม้าแข่ง 123Play"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
