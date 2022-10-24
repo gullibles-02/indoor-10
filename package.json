@@ -1,10 +1,13 @@
 {
-  "name": "pfx4tbk7dnoyvLcOGz300ucICgQaPFmGQq2mcgbQKWcRfBjigj",
+  "name": "ไก่ชน - เว็บพนัน slotxo(สล็อตเอ็กโอ) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "ไก่ชน Aปลอดภัย เท่ากับ ไก่ชน SlotXO เว็บพนันออนไลน์ อันดับหนึ่ง เพราะระบบของเรา สร้างขึ้นมาเป็นอย่างดี และมีนักพนันเข้ามาเล่นกันเป็นจำนวนมาก",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["ไก่ชน","ไก่ชน SlotXO"],
+  "keywords": [
+    "ไก่ชน",
+    "ไก่ชน SlotXO"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
