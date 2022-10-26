@@ -1,10 +1,13 @@
 {
-  "name": "GHlzj61Dbb5OQ2fUsu4lBPlIOpFvvXiDxHysRHJvCgfWc4iOOe",
+  "name": "ม้าแข่งออนไลน์ สรุปว่าอะไร-",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "ม้าแข่งออนไลน์ คาสิโนสด เว้นแต่ ม้าแข่งออนไลน์ ที่ Nova88 เว็บพนัน อันดับหนึ่ง (Live ม้าแข่งออนไลน์ Casino) ประสบการณ์เล่นเกมคาสิโนจริงบนมือถือ และ Pc กับเ",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["ม้าแข่งออนไลน์","ม้าแข่งออนไลน์ Nova88"],
+  "keywords": [
+    "ม้าแข่งออนไลน์",
+    "ม้าแข่งออนไลน์ Nova88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
