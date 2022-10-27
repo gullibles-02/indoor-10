@@ -1,10 +1,13 @@
 {
-  "name": "vQyTHNg6tbZ4wVmH4v4l5hOH9u2F4gOEcOhdiehEcdBUqycFd2",
+  "name": "หวยปิงปอง10คู่ เลือกยังไง - เว็บใหม่ settee bet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.24",
   "description": "หวยปิงปอง10คู่ Valorant ก่อน หวยปิงปอง10คู่ Settee Bet เศรษฐีเบท หวยออนไลน์ มีหวยทุกชนิด คือเกมอะไร คอเกมหลายคนคงรู้จักเกมชนิดนี้กันมาบ้างแล้ว แต่ก็ยังมีอี",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["หวยปิงปอง10คู่","หวยปิงปอง10คู่ Settee Bet"],
+  "keywords": [
+    "หวยปิงปอง10คู่",
+    "หวยปิงปอง10คู่ Settee Bet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
