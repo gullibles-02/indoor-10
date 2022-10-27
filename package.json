@@ -1,10 +1,16 @@
 {
-  "name": "wa9wtYng5wPL5Pspw4ae2K4KNrCzGmodBG19QNQbketIDGA1W0",
+  "name": "หวยออนไลน์ huay ได้อย่างไร - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "หวยออนไลน์ huay หมายเหตุ เนื่องด้วย หวยออนไลน์ huay Huaysod หวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ หวยออนไลน์ huay ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออก",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["หวยออนไลน์ HUAY","หวยออนไลน์","HUAY","หวยออนไลน์ Huaysod","HUAY Huaysod"],
+  "keywords": [
+    "หวยออนไลน์ HUAY",
+    "หวยออนไลน์",
+    "HUAY",
+    "หวยออนไลน์ Huaysod",
+    "HUAY Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
