@@ -1,10 +1,22 @@
 {
-  "name": "QovRiWWU6C8JNun1ZenB8dLw1I6EJcGo6A89ugBUo1avkCu3ra",
+  "name": "ลิง ดูผลหวยหุ้น ฮั่ ง เส็ง ที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "ลิง ดูผลหวยหุ้น ฮั่ ง เส็ง ฝันเห็นผึ้ง เว้นแต่ ลิง ดูผลหวยหุ้น ฮั่ ง เส็ง Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด ทำนายความฝันว่า คุณกำลังจะมีเรื่องทะ",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["ลิง ดูผลหวยหุ้น ฮั่ ง เส็ง","ลิง","ดูผลหวยหุ้น","ฮั่","ง","เส็ง","ลิง Thailotto","ดูผลหวยหุ้น Thailotto","ฮั่ Thailotto","ง Thailotto","เส็ง Thailotto"],
+  "keywords": [
+    "ลิง ดูผลหวยหุ้น ฮั่ ง เส็ง",
+    "ลิง",
+    "ดูผลหวยหุ้น",
+    "ฮั่",
+    "ง",
+    "เส็ง",
+    "ลิง Thailotto",
+    "ดูผลหวยหุ้น Thailotto",
+    "ฮั่ Thailotto",
+    "ง Thailotto",
+    "เส็ง Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
