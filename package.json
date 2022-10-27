@@ -1,10 +1,13 @@
 {
-  "name": "z2VuuMb74qEiWxRVoG1QlbcDWUmcgBBv43DKo8xYN4V9SXO4ve",
+  "name": "westlotto-app ได้อย่างไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.20",
   "description": "westlotto-app เลข จนถึง westlotto-app ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง 3 ตัว ให้มา 2 ชุด คือ 243 024ส่วนเลข 2 ตัว คือ 10 19 18 48 40 43ขอให้สนุกกับการซื",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["WESTLOTTO-APP","WESTLOTTO-APP Ruay"],
+  "keywords": [
+    "WESTLOTTO-APP",
+    "WESTLOTTO-APP Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
