@@ -1,13 +1,10 @@
 {
-  "name": "แอพหวย เล่นยังไง - เว็บใหม่ choke 2023 ล่าสุด-",
+  "name": "i592GaqKQA7afI1C1V485XAqL4ux7H2WOVb3DVsc3DhJwLDU8h",
   "theme": "syntax",
   "version": "1.0.64",
-  "description": "แอพหวย หวยลาว ว่า แอพหวย Choke โชค หวยออนไลน์ มีหวยทุกชนิด ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี้ และสำหรับท่านที่กำลังมองหา แ",
+  "description": "Russian Roulette จะแตกต่างจาก ต่อ Russian Roulette 123Play เว็บพนันออนไลน์ อันดับหนึ่ง 1×2 ตรงที่เรามี 2 ตัวเลือกให้ลุ้นชนะเดิมพัน แต่ละตัวจะมีความหมายดังน",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": [
-    "แอพหวย",
-    "แอพหวย Choke"
-  ],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
