@@ -1,10 +1,20 @@
 {
-  "name": "lAGU2RnqonWYMFXPRclQThC2P2gm188DalIXdKmaFDxUBJUILL",
+  "name": "หุ้น อังกฤษ เลข เยอะ ดูยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.90",
   "description": "หุ้น อังกฤษ เลข เยอะ ชุดเลขท้าย กับ หุ้น อังกฤษ เลข เยอะ Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด หุ้น อังกฤษ เลข เยอะ 3 ตัว พร้อมหมุนไปกลับได้แก่736-763-367-",
   "repository": "https://github.com/gullibles-02/indoor-10",
-  "keywords": ["หุ้น อังกฤษ เลข เยอะ","หุ้น","อังกฤษ","เลข","เยอะ","หุ้น Lotto","อังกฤษ Lotto","เลข Lotto","เยอะ Lotto"],
+  "keywords": [
+    "หุ้น อังกฤษ เลข เยอะ",
+    "หุ้น",
+    "อังกฤษ",
+    "เลข",
+    "เยอะ",
+    "หุ้น Lotto",
+    "อังกฤษ Lotto",
+    "เลข Lotto",
+    "เยอะ Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
